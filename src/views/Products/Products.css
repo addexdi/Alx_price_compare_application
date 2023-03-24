@@ -30,7 +30,7 @@
     position: absolute;
     top: 15px;
     left: 60px;
-    color: var(--tertiary1);
+    color: var(--primary4);
     font-size: 14px;
     font-weight: 400;
 }
@@ -66,7 +66,7 @@
     font-size: 20px;
     font-weight: 700;
     margin-bottom: 20px;
-    color: var(--tertiary2);
+    color: var(--primary11);
 }
 
 @media screen and (min-width: 567px) {
@@ -79,7 +79,7 @@
 .products__subtitle{
     font-size: 14px;
     font-weight: 700;
-    color: var(--tertiary1);
+    color: var(--primary11);
 }
 
 @media screen and (min-width: 567px) {
@@ -135,7 +135,7 @@
 .more__products {
     font-size: 14px;
     font-weight: 400;
-    color: var(--tertiary1);
+    color: var(--primary10);
     cursor: pointer;
     text-align: center;
     margin-top: 48px;
@@ -149,5 +149,5 @@
 }
 
 .more__products span {
-    border-bottom: 1px solid var(--secondary5);
+    border-bottom: 1px solid var(--secondary4);
 }

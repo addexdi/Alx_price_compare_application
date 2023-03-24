@@ -1,16 +1,22 @@
 :root{
-  --background: #12292F;
+  --background: #ffff;
+  --primary1:   #DEF5FB;
+  --primary4:   #92DEF2;
   --primary10:  #1F454E;
+  --primary11:  #12292F;
 
 
   --secondary5: #FF6262;
+  --secondary4: #FF6262;
 
   --tertiary1:  #F6FCFD;
   --tertiary2:  #F1FCFC;
+  --tertiary9:  #6A7B7B;
 
   --text-primary: black;
   --text-secondary: royalblue;
   --accent: purple;
+
 }
 
 [data-theme="dark"]{

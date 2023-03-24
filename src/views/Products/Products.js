@@ -141,12 +141,12 @@ const Products = () => {
                     <div className="slider__buttons">
                         <i className="slider__next">
                             <svg width="12" height="20" viewBox="0 0 12 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M9.61704 17.9201L2.8288 11.4001C2.02712 10.6301 2.02712 9.37008 2.8288 8.60008L9.61704 2.08008" stroke="#F6FCFD" strokeWidth="3" strokeMiterlimit="10" strokeLinecap="round" strokeLinejoin="round"/>
+                                <path d="M9.61704 17.9201L2.8288 11.4001C2.02712 10.6301 2.02712 9.37008 2.8288 8.60008L9.61704 2.08008" stroke="#2A3131" strokeWidth="3" strokeMiterlimit="10" strokeLinecap="round" strokeLinejoin="round"/>
                             </svg>
                         </i>
                         <i className="arrow slider__previous">
                             <svg width="12" height="20" viewBox="0 0 12 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M2.28906 17.9201L9.07731 11.4001C9.87899 10.6301 9.87899 9.37008 9.07731 8.60008L2.28906 2.08008" stroke="#F6FCFD" strokeWidth="3" strokeMiterlimit="10" strokeLinecap="round" strokeLinejoin="round"/>
+                                <path d="M2.28894 17.9201L9.07719 11.4001C9.87887 10.6301 9.87887 9.37008 9.07719 8.60008L2.28894 2.08008" stroke="#2A3131" strokeWidth="3" strokeMiterlimit="10" strokeLinecap="round" strokeLinejoin="round"/>
                             </svg>
                         </i>
                     </div>
