@@ -1,17 +1,16 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+// import { BrowserRouter, Routes, Route } from "react-router-dom";
 import './App.css';
-import Home from "./Componenet/home/home";
-import MyDocument from "./Componenet/Doc/document";
+import React from "react";
+import Products from "./views/Products/Products";
 
 
 function App() {
   return (
-    <BrowserRouter>
-      <Routes>
-        <Route path="/" element={<Home /> } />
-        <Route path="/doc" element={<MyDocument />} />
-      </Routes>
-    </BrowserRouter>
+    <React.Fragment>
+      <main className="main">
+        <Products />
+      </main>
+    </React.Fragment>
   );
 }
 
